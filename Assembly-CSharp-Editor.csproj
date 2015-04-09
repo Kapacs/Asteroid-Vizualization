@@ -48,16 +48,24 @@
   <ItemGroup>
      <Compile Include="Assets\StrumpyShaderEditor\Editor\Scripts\NodeEditorWindow.cs" />
      <Compile Include="Assets\StrumpyShaderEditor\Editor\Scripts\StrumpyPreviewWindow.cs" />
+     <None Include="Assets\Neptune Shaders\cloudMat.shader" />
+     <None Include="Assets\Jupiter Shaders\clouds.shader" />
      <None Include="Assets\Mercury Shaders\cloudMat.shader" />
      <None Include="Assets\Mars Shaders\clouds.shader" />
      <None Include="Assets\Mars Shaders\cloudMat.shader" />
      <None Include="Assets\Earth Shaders\clouds.shader" />
      <None Include="Assets\StrumpyShaderEditor\Editor\Resources\Internal\Temp\TempShader.shader" />
+     <None Include="Assets\Neptune Shaders\clouds.shader" />
+     <None Include="Assets\Jupiter Shaders\cloudMat.shader" />
      <None Include="Assets\Earth Shaders\cloudMat.shader" />
      <None Include="Assets\Skybox Textures\skybox.shader" />
      <None Include="Assets\Venus Shaders\cloudMat.shader" />
+     <None Include="Assets\Uranus Shaders\clouds.shader" />
+     <None Include="Assets\Saturn Shaders\clouds.shader" />
      <None Include="Assets\Venus Shaders\clouds.shader" />
+     <None Include="Assets\Saturn Shaders\cloudMat.shader" />
      <None Include="Assets\Mercury Shaders\clouds.shader" />
+     <None Include="Assets\Uranus Shaders\cloudMat.shader" />
      <None Include="Assets\StrumpyShaderEditor\Editor\Resources\Internal\TextureCopy.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
